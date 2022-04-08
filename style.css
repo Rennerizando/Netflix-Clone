@@ -44,7 +44,7 @@ header nav a:hover{
 /* MEU MAIN */
 .filme-principal{
     font-size: 16px;
-    background: linear-gradient(rgba(0, 0, 0,.50), rgba(0, 0, 0,.50)100%), url('/img/capa-homem-aranha.jpg');
+    background: linear-gradient(rgba(0, 0, 0,.50), rgba(0, 0, 0,.50)100%), url('capa-homem-aranha.jpg');
 
     height: 400px;
     background-size: cover;
