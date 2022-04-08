@@ -9,8 +9,33 @@
         margin-top: 5px;
         width: 300px;
     }
+
+    .carrosel-filme .item{
+        margin-left: 25%;
+        width: 30vw;
+        min-width: 50%;
+    }
 }
 
+@media screen and (max-width:400px) {
+    header .conteiner{
+        display: flex;
+        flex-direction: column;
+    }
+
+
+    .botao{
+        margin-top: 5px;
+        width: 300px;
+    }
+
+    .carrosel-filme .item{
+       margin-left: 80px;
+        width: 30vw;
+        min-width: 50%;
+    }
+
+}
 @media screen and (min-width:1000px) {
     .descricao{
         width: 50%;
